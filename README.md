@@ -1,4 +1,4 @@
-![Why Git](banner.jpg)
+![Why Git](banner.gif)
 
 ## About me
 
