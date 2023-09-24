@@ -11,13 +11,14 @@
 
 ### My skills
 
-- **C#**: ![C#](https://img.shields.io/badge/C%23-Skill-blue)
-- **.NET**: ![.NET](https://img.shields.io/badge/.NET-Skill-blue)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-Skill-yellow)
-- **React**: ![React](https://img.shields.io/badge/React-Skill-blue)
-- **HTML**: ![HTML](https://img.shields.io/badge/HTML-Skill-red)
-- **CSS**: ![CSS](https://img.shields.io/badge/CSS-Skill-brightgreen)
-- **MySQL**: ![MySQL](https://img.shields.io/badge/MySQL-Skill-orange)
+- **C#**: ![C#](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=5E74C2)
+- **.NET**: ![.NET](https://img.shields.io/badge/code-.net-informational?style=for-the-badge&logo=.net&logoColor=white&color=5E74C2)
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5E74C2)
+- **React**: ![React](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=5E74C2)
+- **HTML**: ![HTML](https://img.shields.io/badge/code-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=5E74C2)
+- **CSS**: ![CSS](https://img.shields.io/badge/code-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=5E74C2)
+- **MySQL**: ![MySQL](https://img.shields.io/badge/code-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=5E74C2)
+
 - 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5E74C2)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=5E74C2)
