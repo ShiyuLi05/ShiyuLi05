@@ -2,19 +2,23 @@
 
 ## About me
 
-Hello world. I'm Shiyu Li, an IT student at MITT based in Winnipeg, MB, Canada.
+`Hello, world`. I'm Shiyu Li, a College Student at the Manitoba Institute and Technology in Winnipeg, Canada.
 
-I got interesting in programming when I was just 12. Now I'm still try my best to
-learn more and more. I always focuse on beautiful and functional websites like my
-professor. I also good at math which make me excited and creatable.
 
-I learned a lot about JavaScript, CSS and HTML. Do you wanna know more?
-Get in touch. I'm looking forward to hearing from you.
+
 
 ##
 
 ### My skills
 
+- **C#**: ![C#](https://img.shields.io/badge/C%23-Skill-blue)
+- **.NET**: ![.NET](https://img.shields.io/badge/.NET-Skill-blue)
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-Skill-yellow)
+- **React**: ![React](https://img.shields.io/badge/React-Skill-blue)
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-Skill-red)
+- **CSS**: ![CSS](https://img.shields.io/badge/CSS-Skill-brightgreen)
+- **MySQL**: ![MySQL](https://img.shields.io/badge/MySQL-Skill-orange)
+- 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5E74C2)
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=5E74C2)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=5E74C2)
