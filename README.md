@@ -19,7 +19,6 @@
 
 ### My skills
 
--
 ![C#](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=5E74C2)
 ![.NET](https://img.shields.io/badge/code-.net-informational?style=for-the-badge&logo=.net&logoColor=white&color=5E74C2)
 ![JavaScript](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=5E74C2)
